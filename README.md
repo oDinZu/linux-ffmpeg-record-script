@@ -1,4 +1,4 @@
-# FFmpeg-Record-Script
+# Linux FFmpeg Record Script
 
 A record-screen.sh that screen captures with FFmpeg using a hotkey e.g `WIN + R`.
 
