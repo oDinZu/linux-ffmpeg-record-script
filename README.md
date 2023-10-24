@@ -1,6 +1,15 @@
 # FFmpeg-Record-Script
 
-A script.sh that screen captures with FFmpeg using a hotkey e.g `WIN + R`.
+A record-screen.sh that screen captures with FFmpeg using a hotkey e.g `WIN + R`.
+
+## Depends On
+* ffmpeg
+* bash
+* basic linux terminal
+
+### Recommended Setup Dependencies
+* xdpyinfo
+* xwininfo
 
 ### Setup
 1. `git clone https://github.com/oDinZu/linux-ffmpeg-record-script`
